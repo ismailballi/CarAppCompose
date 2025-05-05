@@ -1,4 +1,4 @@
-package com.ismailballi.carappcompose.ui.theme
+package com.ismailballi.carappcompose.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
