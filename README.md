@@ -24,7 +24,7 @@ Screens
   <tr>
     <td align="center">
       <strong>Loading</strong><br>
- <img src="https://github.com/user-attachments/assets/138cbcf1-4624-461f-99b7-372eafac7958" alt="car_app"  style="width:90%; max-width:600px;"">    </td>
+ <img src="https://github.com/user-attachments/assets/138cbcf1-4624-461f-99b7-372eafac7958" alt="car_app"  style="width:90%; max-width:600px;">    </td>
     <td align="center">
       <strong>Success</strong><br>
  <img src="https://github.com/user-attachments/assets/2ae6368c-8e56-49f3-9dcd-b6a1b6559582" alt="car_app"  style="width:90%; max-width:600px;">    </td>
